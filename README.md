@@ -4,8 +4,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there!;I'm%20Ivan;Junior%20DevOps%20Engineer%20from%20Mexico&center=true&width=500&height=50&color=ffffff&pause=1000&multiline=true" alt="Typing SVG" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
 <br>
 
 <div align="center">
@@ -83,7 +83,7 @@
   </p>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivnchvz&show_icons=true&locale=en&layout=compact&theme=dark" alt="ivnchvz's Top Languages" />
