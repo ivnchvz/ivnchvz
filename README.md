@@ -6,7 +6,7 @@
 </div>
 
 ---
-<br><br>
+<br>
 
 <div align="center">
   <p>
@@ -28,11 +28,11 @@
     📄 Know about my experiences on my <a href="https://www.linkedin.com/in/ivnchvz/" target="_blank">LinkedIn</a>
   </p>
   <p>
-    ⚡ Fun fact: <strong>I love rogue-likes, collecting vinyl, and reading!</strong>
+    ⚡ Fun fact: <strong>I love rogue-likes, collecting vinyls, and reading!</strong>
   </p>
 </div>
 
-<br><br>
+<br>
 
 
 <h3 align="center">Languages and Tools</h3>
@@ -83,9 +83,16 @@
   </p>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivnchvz&show_icons=true&locale=en&layout=compact&theme=dark" alt="ivnchvz's Top Languages" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://images.credly.com/size/220x220/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="ivnchvz CKA certificate" />
+</div> 
+
 
