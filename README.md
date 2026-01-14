@@ -10,7 +10,7 @@
 
 <div align="center">
   <p>
-    🔭 I’m currently working on <a href="http://iss.ivnchvz.com" target="_blank">an ISS tracker</a>
+    🔭 I’m currently working on completing Full Stack Open & AWS Practicioner
   </p>
   <p>
     🌱 I’m currently learning <strong>Terraform</strong>
